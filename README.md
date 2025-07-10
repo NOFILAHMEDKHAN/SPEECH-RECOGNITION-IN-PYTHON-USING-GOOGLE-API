@@ -77,8 +77,8 @@ Each script will:
 ```
 📁 speech-recognition-lab06/
 │
+├── OUTPUTS.rar
 ├── README.md
-├── OUTPUTS
 ├── task1_visualize_waterfall.py
 ├── task2_compare_signals.py
 ├── task3_microphone_recognition.py
