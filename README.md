@@ -77,11 +77,12 @@ Each script will:
 ```
 📁 speech-recognition-lab06/
 │
+├── README.md
 ├── task1_visualize_waterfall.py
 ├── task2_compare_signals.py
 ├── task3_microphone_recognition.py
 ├── task4_background_noise_analysis.py
-├── README.md
+├── OUTPUTS
 ```
 
 ---
